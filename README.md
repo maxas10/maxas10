@@ -1,5 +1,5 @@
 ## About Me
-I am a *full-stack* developer.
+I am a *full stack developer* with an interest in AI.
 
 -> [mseung.dev](https://mseung.dev/) <-
 <!--
