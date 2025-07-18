@@ -36,7 +36,6 @@ I am a developer from the Bay Area.
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maxas10/maxas10/output/snake.svg" alt="Snake animation" />
-###
 <!--
 **maxas10/maxas10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
